@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebCore", "WebCore\WebCore.csproj", "{48E96F7C-9C22-4EAB-BC72-DACF74A97B30}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiClient", "ApiClient\ApiClient.csproj", "{583CE331-5245-421B-9341-70675AA02DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48E96F7C-9C22-4EAB-BC72-DACF74A97B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48E96F7C-9C22-4EAB-BC72-DACF74A97B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48E96F7C-9C22-4EAB-BC72-DACF74A97B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48E96F7C-9C22-4EAB-BC72-DACF74A97B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{583CE331-5245-421B-9341-70675AA02DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{583CE331-5245-421B-9341-70675AA02DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{583CE331-5245-421B-9341-70675AA02DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{583CE331-5245-421B-9341-70675AA02DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4CC809D-95BB-4D11-B3F8-5709411BFFE9}
+	EndGlobalSection
+EndGlobal
